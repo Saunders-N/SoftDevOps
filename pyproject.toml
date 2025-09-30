@@ -1,0 +1,11 @@
+[project]
+name = "FJTickets"
+version = "1.0.0"
+description = "An app for submitting, reading and completing tech support tickets."
+dependencies = [
+    "flask",
+]
+
+[build-system]
+requires = ["flit_core<4"]
+build-backend = "flit_core.buildapi"
