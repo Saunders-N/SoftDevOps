@@ -1,0 +1,7 @@
+[
+  "tests/test_app.py::test_create_ticket_sql_injection",
+  "tests/test_app.py::test_login",
+  "tests/test_app.py::test_login_sql_injection",
+  "tests/test_app.py::test_register",
+  "tests/test_app.py::test_unique_username"
+]
